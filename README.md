@@ -1,4 +1,4 @@
-# -News_Summarizer_GUI
+# News_Summarizer_GUI
 A Python desktop application with a graphical user interface (GUI) to quickly summarize news articles from any URL.
 
 This project is a news summarizer application built with Python and the Tkinter library. It provides a user-friendly interface to help you quickly digest online articles. Users can simply paste the URL of a news article, specify a word limit, and receive a concise summary along with sentiment analysis. The tool is designed to save time and help users stay informed in a fast-paced world.
